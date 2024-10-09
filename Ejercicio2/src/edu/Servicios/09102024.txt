@@ -1,0 +1,46 @@
+Se abre el menú principal
+Se abre el menú empleado
+Se añade una venta
+Se abre el menú principal
+Se abre el menú empleado
+Se calcula el total de ventas diario
+Se abre el menú principal
+Se cierra el menú principal
+Se abre el menú principal
+Se abre el menú empleado
+Se añade una venta
+Se abre el menú principal
+Se abre el menú empleado
+Se calcula el total de ventas diario
+Se abre el menú principal
+Entra en el menu Gerente
+Se muestra todas las ventas del día
+Se abre el menú principal
+Se abre el menú empleado
+Se añade una venta
+Se abre el menú principal
+Se abre el menú empleado
+Se añade una venta
+Se abre el menú principal
+Entra en el menu Gerente
+Se muestra todas las ventas del día
+Se abre el menú principal
+Se abre el menú empleado
+Se calcula el total de ventas diario
+Se abre el menú principal
+Entra en el menu Gerente
+Se crea un nuevo pedido para proveedores
+Se abre el menú principal
+Entra en el menu Gerente
+Se crea un nuevo pedido para proveedores
+Se abre el menú principal
+Se abre el menú empleado
+Se añade una venta
+Se abre el menú principal
+Se abre el menú empleado
+Se abre el menú principal
+Se abre el menú empleado
+Se añade una venta
+Se abre el menú principal
+Se abre el menú empleado
+Se calcula el total de ventas diario
